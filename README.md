@@ -1,4 +1,4 @@
-# BIN-PY
+#  EmployeeBin-py
 
 **_A Python-based tool utilizing the pickle library to create `.dat` files._**  
 Take it with a pinch of salt—this is a school project exploring serialization with Python!
