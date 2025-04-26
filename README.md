@@ -16,7 +16,7 @@ Take it with a pinch of salt—this is a school project exploring serialization 
 To run the program:
 1. Ensure you have Python installed on your system.  
 2. Clone this repository to your local machine:  
-   git clone https://github.com/UnknownHuman2/Bin-py.git
+   git clone https://github.com/UnknownHuman2/EmployeeBin-py
 ## CLI
 ![CLI Screenshot](images/cli_screenshot.png)
 
